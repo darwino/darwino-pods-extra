@@ -1,0 +1,13 @@
+{	
+	"label": "Darwino Extra",
+	"ui-templates": {
+		"reactjs-onsenui": {
+			"label": "ReactJS and OnsenUI",
+			"description": "ReactJS, OnsenUI and Webpack",
+			"path": "ui-templates/ReactJS-OnsenUI",
+			"properties": {
+				"DWOTPL_POM_PROFILE_WEBUI": "true"
+			}
+		}
+	}
+}
