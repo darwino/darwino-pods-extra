@@ -8,6 +8,14 @@
 			"properties": {
 				"DWOTPL_POM_PROFILE_WEBUI": "true"
 			}
+		},
+		"reactjs-uifabric": {
+			"label": "ReactJS and Microsoft UI Fabric",
+			"description": "ReactJS, UI Fabric and Webpack",
+			"path": "ui-templates/ReactJS-UIFabric",
+			"properties": {
+				"DWOTPL_POM_PROFILE_WEBUI": "true"
+			}
 		}
 	}
 }
